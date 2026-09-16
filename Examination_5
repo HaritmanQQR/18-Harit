@@ -8,4 +8,8 @@
 # เขียนโค้ดต่อจากนี้
 quantity = int(input())
 
+print(quantity * 20)
+if quantity >= 5
+print(quantity - 10 )
+
 
